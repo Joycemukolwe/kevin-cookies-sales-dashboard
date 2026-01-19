@@ -11,64 +11,65 @@ The analysis focuses on understanding sales performance across products, regions
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 **📁 Dataset**
 
-Source: Kevin Cookies Company (Excel-based sales data)
+- Source: Kevin Cookies Company (Excel-based sales data)
 
-Format: Excel (.xlsx)
+- Format: Excel (.xlsx)
 
-Key variables include:
+- Key variables include:
 
-Product
+  - Product
 
-Region
+  - Region
 
-Sales Representative
+  - Sales Representative
 
-Units Sold
+  - units Sold
 
-Revenue
+  - Revenue
 
-Date
+  - Date
+---------------------------------------------------------------------------------------------------------------------------------
+**🔍 Key Analysis & Insights**
 
-🔍 Key Analysis & Insights
+- Identified top-performing products and regions
 
-Identified top-performing products and regions
+- Analyzed sales trends over time
 
-Analyzed sales trends over time
+- Compared sales performance by sales representatives
 
-Compared sales performance by sales representatives
+- Highlighted revenue contribution by product category
+------------------------------------------------------------------------------------------------------------------------------
+**🛠 Tools Used**
 
-Highlighted revenue contribution by product category
+  - Microsoft Excel
 
-🛠 Tools Used
+  - Pivot Tables
 
-Microsoft Excel
+  - Charts & Visualizations
 
-Pivot Tables
+  - Data Cleaning & Preparation
+-------------------------------------------------------------------------------------------------------------------------------------
+**🎯 Skills Demonstrated**
 
-Charts & Visualizations
+ - Data cleaning and validation
 
-Data Cleaning & Preparation
+ - Exploratory data analysis
 
-🎯 Skills Demonstrated
+ - Dashboard design and visualization
 
-Data cleaning and validation
+ - Business and sales analytics
 
-Exploratory data analysis
+ - Insight communication
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+**📌 Files in this Repository**
 
-Dashboard design and visualization
+ - data/kevin_cookies_sales.xlsx – Raw sales dataset
+ - dashboard/kevin_cookies_dashboard.xlsx – Interactive Excel dashboard
+ - images/dashboard_preview.png – Dashboard screenshot
+------------------------------------------------------------------------------------------------------------------------------------------------
+**🚀 Use Case**
 
-Business and sales analytics
-
-Insight communication
-
-📌 Files in this Repository
-
-data/kevin_cookies_sales.xlsx – Raw sales dataset
-
-dashboard/kevin_cookies_dashboard.xlsx – Interactive Excel dashboard
+This project demonstrates how Excel dashboards can be used by business teams to track performance, monitor trends, and support operational and strategic decisions.dashboard/kevin_cookies_dashboard.xlsx – Interactive Excel dashboard
 
 images/dashboard_preview.png – Dashboard screenshot
-
-🚀 Use Case
-
-This project demonstrates how Excel dashboards can be used by business teams to track performance, monitor trends, and support operational and strategic decisions.
+trates how Excel dashboards can be used by business teams to track performance, monitor trends, and support operational and strategic decisions.
