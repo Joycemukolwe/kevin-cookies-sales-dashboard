@@ -70,6 +70,3 @@ The analysis focuses on understanding sales performance across products, regions
 **🚀 Use Case**
 
 This project demonstrates how Excel dashboards can be used by business teams to track performance, monitor trends, and support operational and strategic decisions.dashboard/kevin_cookies_dashboard.xlsx – Interactive Excel dashboard
-
-images/dashboard_preview.png – Dashboard screenshot
-trates how Excel dashboards can be used by business teams to track performance, monitor trends, and support operational and strategic decisions.
