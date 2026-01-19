@@ -1,13 +1,15 @@
 # kevin-cookies-sales-dashboard
 Sales data analysis and dashboard for Kevin Cookies Company using Excel.
 
-📌 Project Overview
+**📌Project Overview**
 
 This project analyzes sales data from Kevin Cookies Company using Microsoft Excel to uncover trends, monitor performance, and support data-driven decision-making.
+The analysis focuses on understanding sales performance across products, regions, and time periods, and presents insights through an interactive Excel
 
-The analysis focuses on understanding sales performance across products, regions, and time periods, and presents insights through an interactive Excel dashboard.📊 Dashboard Preview
-
-📁 Dataset
+------------------------------------------------------------------------------------------------------------------------------------------------
+**📊 Dashboard Preview**
+------------------------------------------------------------------------------------------------------------------------------------------------------
+**📁 Dataset**
 
 Source: Kevin Cookies Company (Excel-based sales data)
 
